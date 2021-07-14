@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mitesh8199&label=Profile%20views&color=0e75b6&style=flat" alt="mitesh8199" /> </p>
 
-- 🔭 I’m currently working on **some data analytics and Django framework projects**
+- 🔭 I’m currently working on **some data analytics projects**
 
 - 🌱 I’m currently learning **Azure Machine Learning**
 
