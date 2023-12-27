@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **any projects related to Data Science and Analytics**
 
-- 🤝 I’m looking for help with **Job opportunities in the field of Data Science**
+- 🤝 I’m looking for help with **Job opportunities in the field of Data Analytics**
 
 - 💬 Ask me about **Anything related to Data Analytics, Data Visualization, Machine learning etc.**
 
