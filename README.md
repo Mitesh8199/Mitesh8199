@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **some data analytics projects**
 
-- 🌱 I’m currently learning **Azure Machine Learning**
+- 🌱 I’m currently learning **Analytics for business decison making**
 
 - 👯 I’m looking to collaborate on **any projects related to Data Science and Analytics**
 
